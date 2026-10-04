@@ -224,9 +224,9 @@ Taint analysis & constraint solving.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=overkazaf&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="700" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=overkazaf&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/overkazaf/overkazaf/output/github-snake-dark.svg" />
