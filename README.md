@@ -220,7 +220,7 @@ Taint analysis & constraint solving.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=overkazaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overkazaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overkazaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss&exclude_repo=overkazaf" height="165" />
 
 <br/>
 
