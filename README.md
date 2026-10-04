@@ -167,6 +167,19 @@ Taint analysis & constraint solving.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[sidecar](https://github.com/overkazaf/sidecar)**
+```
+Rootless chroot launcher for FairPlay DRM
+decrypt on Linux. User namespace, PTY, zero root.
+```
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
