@@ -224,7 +224,7 @@ Taint analysis & constraint solving.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=overkazaf&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=overkazaf&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="49%" />
 
 <br/>
 
