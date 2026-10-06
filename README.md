@@ -170,14 +170,22 @@ Taint analysis & constraint solving.
 <tr>
 <td width="50%" valign="top">
 
+**[D810G](https://github.com/overkazaf/D810G)** `NEW`
+```
+Most comprehensive Ghidra deobfuscation framework.
+OLLVM/Tigress deflattening, 60 MBA rules, Z3,
+string decrypt, VM devirtualization. Full pipeline.
+```
+
+</td>
+<td width="50%" valign="top">
+
 **[sidecar](https://github.com/overkazaf/sidecar)**
 ```
 Rootless chroot launcher for FairPlay DRM
 decrypt on Linux. User namespace, PTY, zero root.
 ```
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
