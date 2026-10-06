@@ -112,6 +112,7 @@ BUAA → ECUST → Acxiom → Alibaba Cloud → NetEase (current)
 
 **The most comprehensive open-source deobfuscation toolkit for Ghidra**
 
+[![Stars](https://img.shields.io/github/stars/overkazaf/D810G?style=flat-square&color=58a6ff)](https://github.com/overkazaf/D810G)
 [![Tests](https://img.shields.io/badge/tests-201_passed-brightgreen?style=flat-square)](https://github.com/overkazaf/D810G)
 [![Rules](https://img.shields.io/badge/MBA_rules-60-blue?style=flat-square)](https://github.com/overkazaf/D810G)
 [![Arch](https://img.shields.io/badge/arch-x86__64_|_ARM64_|_ARM32-orange?style=flat-square)](https://github.com/overkazaf/D810G)
@@ -142,7 +143,7 @@ BUAA → ECUST → Acxiom → Alibaba Cloud → NetEase (current)
 <tr>
 <td width="50%" valign="top">
 
-**[D810G](https://github.com/overkazaf/D810G)** `🔥 NEW`
+**[D810G](https://github.com/overkazaf/D810G)** ![](https://img.shields.io/github/stars/overkazaf/D810G?style=flat-square&label=⭐&color=0d1117)
 ```
 Ghidra deobfuscation framework. 201 tests,
 60 MBA rules, OLLVM/Tigress/BCF/strings/VM.
@@ -152,7 +153,7 @@ Java plugin + Python engine + CLI.
 </td>
 <td width="50%" valign="top">
 
-**[Ponce4Ghidra](https://github.com/overkazaf/Ponce4Ghidra)**
+**[Ponce4Ghidra](https://github.com/overkazaf/Ponce4Ghidra)** ![](https://img.shields.io/github/stars/overkazaf/Ponce4Ghidra?style=flat-square&label=⭐&color=0d1117)
 ```
 Symbolic execution plugin for Ghidra.
 Taint analysis & constraint solving.
@@ -163,7 +164,7 @@ Taint analysis & constraint solving.
 <tr>
 <td width="50%" valign="top">
 
-**[reverse_engineering](https://github.com/overkazaf/reverse_engineering)** `⭐ 8`
+**[reverse_engineering](https://github.com/overkazaf/reverse_engineering)** ![](https://img.shields.io/github/stars/overkazaf/reverse_engineering?style=flat-square&label=⭐&color=0d1117)
 ```
 RE cookbook — DRM, Android native, exploitation
 techniques, analysis workflows. The field manual.
@@ -172,7 +173,7 @@ techniques, analysis workflows. The field manual.
 </td>
 <td width="50%" valign="top">
 
-**[aria](https://github.com/overkazaf/aria)** `⭐ 8`
+**[aria](https://github.com/overkazaf/aria)** ![](https://img.shields.io/github/stars/overkazaf/aria?style=flat-square&label=⭐&color=0d1117)
 ```
 FairPlay DRM decrypt pipeline. KSM extraction,
 stream decryption, m3u8 repackaging.
@@ -183,7 +184,7 @@ stream decryption, m3u8 repackaging.
 <tr>
 <td width="50%" valign="top">
 
-**[re-agent](https://github.com/overkazaf/re-agent)** `⭐ 3`
+**[re-agent](https://github.com/overkazaf/re-agent)** ![](https://img.shields.io/github/stars/overkazaf/re-agent?style=flat-square&label=⭐&color=0d1117)
 ```
 AI-powered terminal agent for RE and CTF.
 Go + LLM-driven binary analysis.
@@ -192,7 +193,7 @@ Go + LLM-driven binary analysis.
 </td>
 <td width="50%" valign="top">
 
-**[cap](https://github.com/overkazaf/cap)**
+**[cap](https://github.com/overkazaf/cap)** ![](https://img.shields.io/github/stars/overkazaf/cap?style=flat-square&label=⭐&color=0d1117)
 ```
 MITM proxy for mobile RE. Go + Svelte.
 Real-time traffic interception & analysis.
@@ -203,7 +204,7 @@ Real-time traffic interception & analysis.
 <tr>
 <td width="50%" valign="top">
 
-**[unpack](https://github.com/overkazaf/unpack)** `⭐ 1`
+**[unpack](https://github.com/overkazaf/unpack)** ![](https://img.shields.io/github/stars/overkazaf/unpack?style=flat-square&label=⭐&color=0d1117)
 ```
 Android unpacker. 24 commercial packer vendors.
 Automated deprotection pipeline.
@@ -212,7 +213,7 @@ Automated deprotection pipeline.
 </td>
 <td width="50%" valign="top">
 
-**[sidecar](https://github.com/overkazaf/sidecar)**
+**[sidecar](https://github.com/overkazaf/sidecar)** ![](https://img.shields.io/github/stars/overkazaf/sidecar?style=flat-square&label=⭐&color=0d1117)
 ```
 Rootless chroot launcher for FairPlay DRM
 decrypt on Linux. User namespace, PTY, zero root.
