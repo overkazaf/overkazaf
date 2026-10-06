@@ -104,9 +104,62 @@ BUAA → ECUST → Acxiom → Alibaba Cloud → NetEase (current)
 
 ---
 
-### `0x01` Arsenal
+### `0x01` Featured Project
+
+<div align="center">
+
+[![D810G](https://img.shields.io/badge/🛡️_D810G-Ghidra_Deobfuscation_Framework-58a6ff?style=for-the-badge&logo=github)](https://github.com/overkazaf/D810G)
+
+**The most comprehensive open-source deobfuscation toolkit for Ghidra**
+
+[![Tests](https://img.shields.io/badge/tests-201_passed-brightgreen?style=flat-square)](https://github.com/overkazaf/D810G)
+[![Rules](https://img.shields.io/badge/MBA_rules-60-blue?style=flat-square)](https://github.com/overkazaf/D810G)
+[![Arch](https://img.shields.io/badge/arch-x86__64_|_ARM64_|_ARM32-orange?style=flat-square)](https://github.com/overkazaf/D810G)
+[![Docs](https://img.shields.io/badge/docs-GitHub_Pages-0d1117?style=flat-square)](https://overkazaf.github.io/D810G/)
+
+</div>
+
+```
+┌─ D810G ──────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  OLLVM/Tigress CFF Deflattening  ·  60 MBA Rules (Z3-verified)      │
+│  Opaque Predicates (standard + number theory)  ·  BCF Removal        │
+│  Dead Code Elimination  ·  String Decryption (XOR/RC4/multi-byte)    │
+│  VM Devirtualization + Bytecode Tracing  ·  6-Pass Auto Pipeline     │
+│  Standalone CLI + Interactive Editor  ·  Ghidra Plugin + Analyzer    │
+│                                                                      │
+│  $ d810g cli simplify "(x | y) - (x & y)"                           │
+│    → (x ^ y)  [Z3 verified, rule: mba_xor_1]                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `0x02` Arsenal
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[D810G](https://github.com/overkazaf/D810G)** `🔥 NEW`
+```
+Ghidra deobfuscation framework. 201 tests,
+60 MBA rules, OLLVM/Tigress/BCF/strings/VM.
+Java plugin + Python engine + CLI.
+```
+
+</td>
+<td width="50%" valign="top">
+
+**[Ponce4Ghidra](https://github.com/overkazaf/Ponce4Ghidra)**
+```
+Symbolic execution plugin for Ghidra.
+Taint analysis & constraint solving.
+```
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -159,27 +212,6 @@ Automated deprotection pipeline.
 </td>
 <td width="50%" valign="top">
 
-**[Ponce4Ghidra](https://github.com/overkazaf/Ponce4Ghidra)**
-```
-Symbolic execution plugin for Ghidra.
-Taint analysis & constraint solving.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[D810G](https://github.com/overkazaf/D810G)** `NEW`
-```
-Most comprehensive Ghidra deobfuscation framework.
-OLLVM/Tigress deflattening, 60 MBA rules, Z3,
-string decrypt, VM devirtualization. Full pipeline.
-```
-
-</td>
-<td width="50%" valign="top">
-
 **[sidecar](https://github.com/overkazaf/sidecar)**
 ```
 Rootless chroot launcher for FairPlay DRM
@@ -192,7 +224,7 @@ decrypt on Linux. User namespace, PTY, zero root.
 
 ---
 
-### `0x02` Dispatches from the Lab
+### `0x03` Dispatches from the Lab
 
 ```
 0xaf@re-lab:~$ tail -f /var/log/research.log
@@ -211,7 +243,7 @@ decrypt on Linux. User namespace, PTY, zero root.
 
 ---
 
-### `0x03` Loadout
+### `0x04` Loadout
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -229,6 +261,7 @@ decrypt on Linux. User namespace, PTY, zero root.
 ![Unicorn](https://img.shields.io/badge/Unicorn-333333?style=flat-square&logoColor=white)
 ![Keystone](https://img.shields.io/badge/Keystone-555555?style=flat-square&logoColor=white)
 ![Capstone](https://img.shields.io/badge/Capstone-666666?style=flat-square&logoColor=white)
+![Z3](https://img.shields.io/badge/Z3_Solver-1a73e8?style=flat-square&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
