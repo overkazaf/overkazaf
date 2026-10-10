@@ -221,6 +221,19 @@ decrypt on Linux. User namespace, PTY, zero root.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[rift](https://github.com/overkazaf/rift)** ![](https://img.shields.io/github/stars/overkazaf/rift?style=flat-square&label=⭐&color=0d1117)
+```
+Cyberpunk terminal with AI, SSH, time travel,
+and 32 built-in dev tools. Pure Rust.
+```
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
