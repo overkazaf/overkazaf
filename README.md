@@ -24,7 +24,7 @@
 
 ```
 0xaf@re-lab:~$ cat /etc/career
-BUAA → ECUST → Acxiom → Alibaba Cloud → NetEase (current)
+ECUST → BUAA → Acxiom → Alibaba Cloud → NetEase (current)
 ```
 
 ---
